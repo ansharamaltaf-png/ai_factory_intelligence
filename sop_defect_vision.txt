@@ -1,5 +1,0 @@
-SOP-105: Visual Defect Inspection Guidelines
-Section 1 - Scope: Applies to camera-based inspection of manufactured components (e.g. cast/machined parts, textured surfaces) for surface defects such as scratches, cracks, dents, and contamination.
-Section 2 - Severity Bands: Minor defects (surface area under 2% of part) may pass with a warning log. Major defects (2-8%) require quarantine and secondary manual inspection. Critical defects (over 8%, or any crack) require immediate rejection and a hold on the current production batch.
-Section 3 - Action: On any Critical defect classification, halt the line feeding that inspection station and notify the quality supervisor before resuming.
-Section 4 - Calibration: Re-calibrate the vision system if the false-reject rate exceeds 5% over a 500-part rolling window.
