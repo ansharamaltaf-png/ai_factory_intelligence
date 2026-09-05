@@ -1,5 +1,0 @@
-SOP-101: Tool Wear Management
-Section 1 - Trigger: Tool wear alarm activates when accumulated tool wear exceeds 200 minutes or when surface-finish defects are reported by an operator.
-Section 2 - Immediate Action: Reduce spindle load by 15% and schedule a tool change within the current shift. Do not continue production above 220 minutes of accumulated wear.
-Section 3 - Inspection: Check torque readings; torque above 55 Nm combined with high tool wear indicates imminent tool failure risk (see SOP-103 Overstrain).
-Section 4 - Safety: Lock out the machine before performing a manual tool change. Use PPE class B (gloves, eye protection).
