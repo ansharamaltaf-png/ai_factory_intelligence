@@ -19,7 +19,10 @@ import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-RAW_PATH = "data/ai4i2020.csv"
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+RAW_PATH = BASE_DIR / "data" / "raw" / "ai412020.csv"
 
 FAILURE_MODES = ["TWF", "HDF", "PWF", "OSF", "RNF"]
 SENSOR_COLS = [
