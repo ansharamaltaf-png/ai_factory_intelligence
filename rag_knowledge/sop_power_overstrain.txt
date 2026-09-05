@@ -1,0 +1,5 @@
+SOP-103: Power Failure and Overstrain
+Section 1 - Trigger: Power failure (PWF) occurs when the product of torque and rotational speed falls outside the rated power envelope (roughly torque times rpm divided by 9548.8 outside 3.5-6.0 kW for standard tooling).
+Section 2 - Overstrain (OSF): Overstrain risk is high when tool wear (minutes) multiplied by torque (Nm) exceeds a type-specific threshold: 11000 for Low-type, 12000 for Medium-type, 13000 for High-type product lines.
+Section 3 - Immediate Action: Stop the machine immediately on a PWF or OSF alarm. Do not restart until torque and tool wear are verified within limits.
+Section 4 - Safety: Overstrain faults can indicate mechanical damage; a supervisor must physically inspect the spindle and drive train before restart.
