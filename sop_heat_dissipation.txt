@@ -1,0 +1,5 @@
+SOP-102: Heat Dissipation Faults
+Section 1 - Trigger: Heat dissipation failure (HDF) risk rises when the process-air temperature delta falls below 8.6K while rotational speed is below 1380 rpm, i.e. insufficient cooling airflow relative to heat generated.
+Section 2 - Immediate Action: Increase rotational speed setpoint if safe to do so, or stop the machine for 10 minutes to allow passive cooling.
+Section 3 - Root Cause: Common causes are blocked cooling vents, worn cooling fan bearings, or ambient air temperature above 305K.
+Section 4 - Escalation: If the fault recurs twice in one shift, escalate to maintenance supervisor and remove the machine from the schedule for inspection.

@@ -1,0 +1,4 @@
+SAFETY-001: General Machine Safety Rules
+Section 1: All automated stop/restart recommendations from the AI Factory Intelligence System are decision support only. A qualified human supervisor must approve, reject, or modify every recommendation before it is executed on physical equipment.
+Section 2: Emergency stops always take precedence over any AI or digital-twin recommendation.
+Section 3: Maintenance personnel must confirm lockout-tagout status before servicing any flagged machine.

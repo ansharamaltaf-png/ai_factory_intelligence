@@ -1,0 +1,4 @@
+SOP-104: Random / Unclassified Failures (RNF)
+Section 1 - Trigger: A stoppage with no clear correlation to temperature, speed, torque, or wear thresholds is logged as a Random Failure.
+Section 2 - Immediate Action: Restart is permitted after a standard safety check, since no specific root cause is indicated.
+Section 3 - Tracking: Log all RNF events centrally. If RNF frequency exceeds 2 per week on the same machine, open an engineering investigation, as this may indicate a sensor fault rather than a true random failure.
